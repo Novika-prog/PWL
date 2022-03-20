@@ -4,3 +4,4 @@ phpmyadmin nya berbentuk rar "db_siswa"
 Saya juga mengupload dalam bentuk rar di repository ini dengan nama "smkn1batu.rar"
 
 coba lagi
+halo
