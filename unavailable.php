@@ -55,12 +55,21 @@
   <header class="p-3 mb-3 border-bottom">
     <div class="container">
 
-    <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
-          <li><a href="index.php" class="nav-link px-2 link-secondary">Home</a></li>
+      <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+        <ul class="nav col-12 col-lg-auto me-lg-auto mb-2 justify-content-center mb-md-0">
+          <li><a href="home.php" class="nav-link px-2 link-secondary">Home</a></li>
           <li><a href="unavailable.php" class="nav-link px-2 link-dark">Data Angkutan</a></li>
           <li><a href="unavailable.php" class="nav-link px-2 link-dark">Jadwal Keberangkatan</a></li>
         </ul>
 
+        <div class="dropdown text-end">
+          <a href="#" class="d-block link-dark text-decoration-none dropdown-toggle" id="dropdownUser1" data-bs-toggle="dropdown" aria-expanded="false">
+            <img style="width:50px;height:50px;" src="https://png.pngtree.com/png-vector/20200306/ourmid/pngtree-transport-car-angkot-png-image_2158187.jpg">
+          </a>
+          <ul class="dropdown-menu text-small" aria-labelledby="dropdownUser1">
+            <li><a class="dropdown-item" href="#">Hayo.. Cari Apa :v</a></li>
+          </ul>
+        </div>
       </div>
     </div>
   </header>
@@ -73,12 +82,9 @@
 
 <section class="py-5 text-center container">
     <div class="row py-lg-5">
-      <div class="col-lg-6 col-md-8 mx-auto">
-        <h1 class="fw-light">SELAMAT DATANG DI WEBSITE ANGKUTAB</h1>
-        <p class="lead text-muted">Angkutan Umum Kota Batu</p>
-        <hr>
         <p style="color: red";>Website Still Under Constraction bestie:')</p>
-        <img style="width:200px;height:130px;" src="https://i.gifer.com/TFyA.gif">
+        <center><img style="width:200px;height:130px;" src="https://i.gifer.com/TFyA.gif">
+        </center>
       </div>
     </div>
   </section>
